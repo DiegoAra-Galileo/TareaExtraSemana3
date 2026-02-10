@@ -1,0 +1,5 @@
+Los programas usan tipos de datos como números, texto y valores lógicos. 
+
+Las condiciones permiten que el programa tome decisiones (if, else). 
+
+Los bucles repiten instrucciones mientras se cumpla una regla (for, while).

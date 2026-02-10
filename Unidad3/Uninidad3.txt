@@ -1,0 +1,5 @@
+Un repositorio es donde se guarda y controla el historial de cambios de un proyecto. 
+
+Git es el sistema de control de versiones que registra esos cambios. 
+
+GitHub es una plataforma en línea para almacenar repositorios Git y colaborar.

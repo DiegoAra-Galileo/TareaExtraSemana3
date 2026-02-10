@@ -1,0 +1,9 @@
+Sistema binario, lógica y algoritmos
+
+El sistema binario representa la información usando solo 0 y 1, base del funcionamiento de las computadoras. 
+
+La lógica permite tomar decisiones mediante valores verdadero/falso. 
+
+Los algoritmos son pasos ordenados y finitos para resolver un problema.
+
+Los temas más importantes suelen ser algoritmos y lógica, porque son la base para aprender a programar correctamente.
